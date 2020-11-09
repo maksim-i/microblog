@@ -2,3 +2,4 @@ __pycache__/
 microblog_env
 run.lnk
 app.db
+microblog_env.lnk
