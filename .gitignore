@@ -3,3 +3,6 @@ microblog_env
 run.lnk
 app.db
 microblog_env.lnk
+.flaskenv
+run_debug.lnk
+logs
