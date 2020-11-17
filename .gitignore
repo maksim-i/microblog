@@ -6,3 +6,4 @@ microblog_env.lnk
 .flaskenv
 run_debug.lnk
 logs
+run_smtp.lnk
