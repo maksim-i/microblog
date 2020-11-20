@@ -7,3 +7,5 @@ microblog_env.lnk
 run_debug.lnk
 logs
 run_smtp.lnk
+messages.pot
+*.mo

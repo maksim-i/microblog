@@ -1,4 +1,4 @@
-from microblog_app import app, db
+from microblog_app import app, db, cli
 from microblog_app.models import User, Post
 
 @app.shell_context_processor
